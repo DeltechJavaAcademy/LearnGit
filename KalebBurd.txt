@@ -1,9 +1,6 @@
 
 Name: Kaleb Burd
 
-Goal:
-To be the very best, that no one ever was
-
 Favorites
 -------------
 Song: Without Me by Eminem
@@ -17,3 +14,9 @@ LinkedIn: kalebburd
 HackerRank: kalebmburd
 Slack: Kaleb Burd
 Email: kburd2@dtcc.edu
+
+(Part 2)
+Goals:
+1. Run my own business
+2. Carbon neutral
+3. Learn something from every person I meet
