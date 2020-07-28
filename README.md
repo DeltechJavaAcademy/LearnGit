@@ -16,7 +16,7 @@ Create a file on your computer. This file should be named <your_name>.txt and co
   <li>Slack Username</li>
 </ul>
 
-Once you have created the file, use git to add it to this repo. You can refer to KalebBurd.txt for an example. 
+Once you have created the file, use git to add it to this repo. Add each piece of information above in its own commit. You can refer to KalebBurd.txt for an example. 
 
 <h2>Part Two</h2>
 
