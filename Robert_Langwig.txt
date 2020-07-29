@@ -12,4 +12,5 @@ Usernames
 Github: RWLangwig
 LinkedIn: robertlangwig
 HackerRank: none
-Slack: Robert Langwig
+Slack: Robert Langwig
+Email: rlangwig@verizon.net
