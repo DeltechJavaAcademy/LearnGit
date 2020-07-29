@@ -11,4 +11,5 @@ Usernames
 --------------
 Github: RWLangwig
 LinkedIn: robertlangwig
-HackerRank: none
+HackerRank: none
+Slack: Robert Langwig
