@@ -26,3 +26,5 @@ Usernames
 --------------
 
 Github: emadde
+
+LinkedIn: emadde
