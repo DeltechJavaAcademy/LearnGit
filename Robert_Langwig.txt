@@ -19,4 +19,5 @@ Goals
 ---------------
 Learn something new everyday
 Learn to relax more during trying times
-Learn Java
+Learn Java
+Have fun
