@@ -1,11 +1,4 @@
-
-
 Name: Emad Ahmed
-
-
-
-Email: emad@jetpe.com
-
 
 
 
@@ -30,3 +23,7 @@ Github: emadde
 LinkedIn: emadde
 
 HackerRank: emadde
+
+Slack: emadco
+
+Email: emad@jetpe.com
