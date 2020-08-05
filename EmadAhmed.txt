@@ -1,11 +1,4 @@
-
-
 Name: Emad Ahmed
-
-
-
-Email: emad@jetpe.com
-
 
 
 
@@ -28,3 +21,21 @@ Usernames
 Github: emadde
 
 LinkedIn: emadde
+
+HackerRank: emadde
+
+Slack: emadco
+
+Email: emad@jetpe.com
+
+
+(Part 2)
+
+Goals:
+
+1. Be a software engineer
+
+2. Finish my IT Msc
+
+3. Start my own business
+
