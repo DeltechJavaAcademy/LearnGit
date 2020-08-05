@@ -13,4 +13,10 @@ Github: RWLangwig
 LinkedIn: robertlangwig
 HackerRank: none
 Slack: Robert Langwig
-Email: rlangwig@verizon.net
+Email: rlangwig@verizon.net
+
+Goals
+---------------
+Learn something new everyday
+Learn to relax more during trying times
+Learn Java
