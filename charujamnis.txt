@@ -1,9 +1,9 @@
-First/Last Name : Charushila Jamnis	
+Name : Charushila Jamnis	
 Email : charushila.jamnis@gmail.com
 Favorite Song : Pretty Woman
 Favorite Food : chicken
-Favorite Movie : Life is beautiful
+Favorite Movie : It's a Wonderful Life
 Github Username : charujamnis
 LinkedIn Username : charujamnis
-HackerRank Username : Charushila Jamnis
-Slack Username : charujamnis
+HackerRank Username :---
+Slack Username : Charushila Jamnis
