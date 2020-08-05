@@ -1,0 +1,21 @@
+LearGit
+Part One
+
+First/Last Name: Stephen Long
+Email: long.stephen.michael@gmail.com
+Favorite Song: Drops of Jupiter
+Favorite Food: Pizza
+Favorite Movie: Hangover
+Github Username: long-stephen-michael
+Slack Username: Stephen Michael Long
+
+Part Two
+
+List of goals:
+-----------------------------
+Graduate from Java IT Academy
+Eat less sugar
+Socially distance
+Wear my mask
+Workout more
+Take care of relationships

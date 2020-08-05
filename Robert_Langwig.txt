@@ -1,3 +1,4 @@
+
 Name: Robert Langwig
 
 Favorites
@@ -14,3 +15,26 @@ LinkedIn: robertlangwig
 HackerRank: none
 Slack: Robert Langwig
 Email: rlangwig@verizon.net
+=======
+Name: Robert Langwig
+Favorites
+-------------
+Song: Puzzle by dada
+Food: Pizza
+Movie: Bladerunner
+
+Usernames
+--------------
+
+Github: RWLangwig
+LinkedIn: robertlangwig
+HackerRank: none
+Slack: Robert Langwig
+Email: rlangwig@verizon.net
+
+Goals
+---------------
+Learn something new everyday
+Learn to relax more during trying times
+Learn Java
+Have fun
